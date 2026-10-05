@@ -12,15 +12,19 @@ If GitHub does not play the video inline in the README, open the link above; Git
 
 ## Downloads
 
+- [Normal Select cursor](pointer.ani)
+- [Link Select cursor](link.ani)
+- [Busy cursor](busy.ani)
 - [Horseman Stomp Study cursor pack](dist/HorsemanStompStudy-color-stable-v5.zip)
 - [Horseman Motion Study cursor pack](dist/HorsemanMotionStudy-color-stable-v7.zip)
 
-Each ZIP contains the Windows `.ani` cursor files, previews, validation output, and install or trial helpers. Download a ZIP from the links above or from the repository file list, then extract it before use.
+Download the individual `.ani` files above for the quickest install, or download a ZIP for the complete pack with previews, validation output, and install or trial helpers. Extract ZIP files before use.
 
 ## What's Included
 
 - `HorsemanStompStudy-color-stable-v5.zip`: Ember arrow for Normal Select, hoof lift/hold/stomp for Link Select, and gallop for Busy.
 - `HorsemanMotionStudy-color-stable-v7.zip`: Ember arrow for Normal Select, pointing gauntlet for Link Select, and gallop for Busy.
+- `pointer.ani`, `link.ani`, `busy.ani`: direct animated cursor downloads.
 - `media/preview.mp4`: screen recording preview.
 - `media/pointer-preview.gif`: quick animated README preview.
 

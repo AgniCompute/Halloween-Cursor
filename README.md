@@ -1,33 +1,37 @@
-# Headless Horseman Cursor Pack
+# Halloween Cursor
 
-Animated Windows cursor packs inspired by the Headless Horseman.
+I wanted to make a Windows cursor that feels more fun than the default one. This is a Headless Horseman style cursor pack with animated `.ani` files, a quick preview, and full ZIP downloads for anyone who wants to try it.
 
-![Pointer preview](media/pointer-preview.gif)
+![Cursor preview](media/pointer-preview.gif)
 
-## Preview
+[Watch the full screen recording](media/preview.mp4)
 
-[Watch the MP4 screen recording](media/preview.mp4)
+GitHub usually does not autoplay MP4 files inside a README, so I put the animated preview first. The recording link opens the video directly in GitHub so you can see the cursor moving before downloading it.
 
-If GitHub does not play the video inline in the README, open the link above; GitHub will show the MP4 in its file viewer.
+## Download
 
-## Downloads
+If you just want the cursor files, download these:
 
 - [Normal Select cursor](pointer.ani)
 - [Link Select cursor](link.ani)
 - [Busy cursor](busy.ani)
-- [Horseman Stomp Study cursor pack](dist/HorsemanStompStudy-color-stable-v5.zip)
-- [Horseman Motion Study cursor pack](dist/HorsemanMotionStudy-color-stable-v7.zip)
 
-Download the individual `.ani` files above for the quickest install, or download a ZIP for the complete pack with previews, validation output, and install or trial helpers. Extract ZIP files before use.
+If you want the full pack with previews and extra files, download one of these:
 
-## What's Included
+- [Horseman Stomp Study full pack](dist/HorsemanStompStudy-color-stable-v5.zip)
+- [Horseman Motion Study full pack](dist/HorsemanMotionStudy-color-stable-v7.zip)
 
-- `HorsemanStompStudy-color-stable-v5.zip`: Ember arrow for Normal Select, hoof lift/hold/stomp for Link Select, and gallop for Busy.
-- `HorsemanMotionStudy-color-stable-v7.zip`: Ember arrow for Normal Select, pointing gauntlet for Link Select, and gallop for Busy.
-- `pointer.ani`, `link.ani`, `busy.ani`: direct animated cursor downloads.
-- `media/preview.mp4`: screen recording preview.
-- `media/pointer-preview.gif`: quick animated README preview.
+For me, the easiest way is to download the individual `.ani` files if you only want to use the cursor. Download the ZIP if you want everything together.
 
-## Notes
+## What It Includes
 
-The ANI files include 64px, 48px, and 32px resources encoded with 24-bit color and 1-bit transparency masks. The included validation checks load files and force individual native render indices; they do not verify automatic equipped playback or fluid character motion. Composite animation frames are generated from source pieces and rigged effects rather than independently drawn source poses.
+- `pointer.ani`: the main animated cursor
+- `link.ani`: the link select cursor
+- `busy.ani`: the busy/loading cursor
+- `media/preview.mp4`: the screen recording
+- `media/pointer-preview.gif`: the preview that shows on this page
+- `dist/`: full cursor pack downloads
+
+## Small Note
+
+I built this so people can actually download it and use it, not just look at the project files. The full packs include validation and preview files too, but the simple `.ani` downloads are probably what most people need first.

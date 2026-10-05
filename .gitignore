@@ -1,0 +1,15 @@
+# Keep this repository focused on public download assets.
+*
+
+!/.gitignore
+!/README.md
+
+!/media/
+!/media/preview.mp4
+!/media/pointer-preview.gif
+
+!/dist/
+!/dist/HorsemanStompStudy-color-stable-v5.zip
+!/dist/HorsemanStompStudy-color-stable-v5.json
+!/dist/HorsemanMotionStudy-color-stable-v7.zip
+!/dist/HorsemanMotionStudy-color-stable-v7.json
